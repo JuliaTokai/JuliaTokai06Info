@@ -51,7 +51,8 @@ Note:
 ## 本日の発表
 
 + antimon2: Metaprogramming 入門
-+ …
++ MathSorcerer: Introduction to Franklin.jl
+  - [slide](https://terasakisatoshi.github.io/MathSeminar.jl/slideshow/juliatokai/build/#1)
 
 ---
 
