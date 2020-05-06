@@ -20,6 +20,7 @@ JuliaTokai \#06
 + [Julia](https://julialang.org)
 + 技術計算を得意とする汎用プログラミング言語
 + LLVMベースJITで高速
++ 最新版：v1.4.1（2020/04/14）
 
 ----
 
