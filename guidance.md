@@ -55,10 +55,8 @@ Note:
 + MathSorcerer: Introduction to Franklin.jl
     + [slide](https://terasakisatoshi.github.io/MathSeminar.jl/slideshow/juliatokai/build/#1)
 + Kgm1500: Juliaの四倍精度演算と多倍長演算
-
 + tsumakoto: WebFrameworkとしてGenie.jlという選択
     + [slide](https://goofy-archimedes-9eeb29.netlify.app/#1)
-
 
 ---
 
