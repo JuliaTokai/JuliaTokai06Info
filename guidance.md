@@ -51,8 +51,9 @@ Note:
 ## 本日の発表
 
 + antimon2: Metaprogramming 入門
+    + [slide](https://hackmd.io/@antimon2/rywy-44FI)
 + MathSorcerer: Introduction to Franklin.jl
-  - [slide](https://terasakisatoshi.github.io/MathSeminar.jl/slideshow/juliatokai/build/#1)
+    + [slide](https://terasakisatoshi.github.io/MathSeminar.jl/slideshow/juliatokai/build/#1)
 + Kgm1500: Juliaの四倍精度演算と多倍長演算
 
 ---
